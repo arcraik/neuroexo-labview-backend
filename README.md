@@ -1,6 +1,6 @@
 # neuroexo-labview-backend
 
-The code in this repository represents the backend software for the NeuroExo: a Brain-controlled Upper-Limb Robot-Assisted Rehabilitation Device for Stroke Survivors. Please see the project website for more information (http://neuroexo.com/) and the related publication "Design and Validation of a Low-Cost Mobile EEG-Based Brain–Computer Interface" (https://www.mdpi.com/1424-8220/23/13/5930).
+The code in this repository represents the backend software for the NeuroExo: a Brain-controlled Upper-Limb Robot-Assisted Rehabilitation Device for Stroke Survivors. Please see the project website for more information (http://neuroexo.com/) and the related publication ["Design and Validation of a Low-Cost Mobile EEG-Based Brain–Computer Interface"](https://www.mdpi.com/1424-8220/23/13/5930).
 
 The NeuroExo system includes a custom Brain Computer Interface, custom headset, custom EEG amplifier, a tablet for display purposes, and a robot-assisted rehabilitation device. All processing is accomplished over a BeagleBone Black - Wireless (BBB) with LabVIEW. 
 
