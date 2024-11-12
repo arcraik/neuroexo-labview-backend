@@ -13,3 +13,7 @@ We communicate with a robot-assisted rehabilitation device (https://hroboticsus.
 The entire system is displayed over an Amazon Fire tablet. To do this through LabVIEW, you must create a web service and broadcast global variables from the Global 1.vi to the vi.s in 'Web Service Globals', which interfaces with a javascript/html frontend. The frontend files are not included with this repository as I did not develop the frontend software.
 
 The main.vi file, which also needs to be included in the LabVIEW web service 'Web Resources' section, provides the VI for the overall system. The system architecture is built for a frontend with different web pages, so the case structure provides LabVIEW code for each web page individually.
+
+Please cite the following if you are able to make use of this code:
+
+Craik, Alexander, et al. "Design and Validation of a Low-Cost Mobile EEG-Based Brain–Computer Interface." Sensors 23.13 (2023): 5930.
